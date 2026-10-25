@@ -114,4 +114,4 @@ This project provides practical experience in applying regression techniques to 
 
 **Srinivas Panchangam**
 
-- **LinkedIn:** [Your LinkedIn Profile](YOUR-LINKEDIN-PROFILE-URL)
+- **LinkedIn:** [Srinivas Panchangam](https://www.linkedin.com/in/srinivas-panchangam-271a262b4/)
