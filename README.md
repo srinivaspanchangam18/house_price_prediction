@@ -114,5 +114,4 @@ This project provides practical experience in applying regression techniques to 
 
 **Srinivas Panchangam**
 
-- **GitHub:** [Your GitHub Profile](YOUR-GITHUB-PROFILE-URL)
 - **LinkedIn:** [Your LinkedIn Profile](YOUR-LINKEDIN-PROFILE-URL)
